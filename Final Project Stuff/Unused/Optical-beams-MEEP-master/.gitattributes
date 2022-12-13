@@ -1,0 +1,2 @@
+*.ctl   linguist-language=Scheme
+*.ipynb linguist-documentation
